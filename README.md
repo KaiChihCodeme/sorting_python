@@ -1,5 +1,5 @@
 # sorting_python
-sorting algorithm implemented by Python
+sorting algorithm implemented by Python 3
 
 Including:
 * Bubble Sort
